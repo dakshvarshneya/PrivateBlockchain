@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Installing Node and NPM is pretty straightforward using the installer package available from the (Node.js® site)[https://nodejs.org/en/].
+Installing Node and NPM is pretty straightforward using the installer package available [Here](https://nodejs.org/en/).
 
 ## Configuring your project
 
