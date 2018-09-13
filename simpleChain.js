@@ -37,7 +37,7 @@ class Blockchain{
     this.addBlock(new Block("First block in the chain - Genesis block"));
   }
 
-  // Add new block
+  // Create and add new block
   addBlock(newBlock){
     getBlockHeightFromLevelDB(function(height) {
       // Block height
